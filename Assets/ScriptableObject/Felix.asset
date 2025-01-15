@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f00a14340dbd1b4e87d7ba3aedbd698, type: 3}
+  m_Name: Felix
+  m_EditorClassIdentifier: 
+  EnemyName: Felix
+  BaseHealth: 8
+  BaseStr: 5
+  BaseInitiative: 6
+  EnemyVisualPrefab: {fileID: 6567118298598474145, guid: b505a815b00a5f54891a64f655b0e8b8,
+    type: 3}
